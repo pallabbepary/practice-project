@@ -5,10 +5,25 @@
 .pp{
     width: 1080px ;
 }
-.pall{
+nav > ul > li{
     color: indianred;
+    display: inline;
     
 }
 .bb{
     width: 1080px;
+}
+.video{
+    width: 1080px;
+}
+.rubah{
+    mask-repeat: repeat;
+}
+.pall{
+    color: blue;
+    display: flex;
+    
+}
+li{
+    text-decoration: none;
 }
